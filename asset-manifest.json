@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diplomlayihe/static/css/main.93e34761.css",
+    "main.js": "/diplomlayihe/static/js/main.3fea8d24.js",
+    "index.html": "/diplomlayihe/index.html",
+    "main.93e34761.css.map": "/diplomlayihe/static/css/main.93e34761.css.map",
+    "main.3fea8d24.js.map": "/diplomlayihe/static/js/main.3fea8d24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93e34761.css",
+    "static/js/main.3fea8d24.js"
+  ]
+}
